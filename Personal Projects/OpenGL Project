@@ -5,5 +5,10 @@ DISCLAIMER: Due to asset file exceeding supported file size for single file on s
   finished will be posted on github/git lfs with file containing steps for building it from scratch.For know I have only
   tried it on kubunutu and other ubuntu distos,So I cant say that is windows compatible.
 
+RUN steps :
+  cd Project
+  cd build
+  ./exe
+
 
 Link to the project  : https://drive.google.com/drive/folders/1GkjKkmcEP_gHnYq5RM8la-dbnS4F41P5?usp=sharing
